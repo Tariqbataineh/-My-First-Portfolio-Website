@@ -1,0 +1,96 @@
+🎨 Design
+The website follows a consistent color palette:
+
+Dark Blue: #2C3639
+Dark Green Gray: #3F4E4F
+Brown: #A27B5C
+Beige: #DCD7C9
+These colors were chosen to create a professional and modern developer portfolio style.
+
+📱 Responsive Design
+The website was designed to work on:
+
+Desktop screens
+Laptops
+Tablets
+Mobile devices
+Using CSS Media Queries to adjust:
+
+Layout
+Font sizes
+Images
+Cards
+Navigation menu
+👨‍💻 Sections
+Home
+Introduction section including:
+
+Name
+Professional title
+Profile image
+Main actions
+About
+Contains:
+
+Professional summary
+Personal information
+Development approach
+Experience
+Showcases:
+
+Training experiences
+Practical learning journey
+Certifications
+Includes:
+
+Professional certificates
+Training achievements
+Skills
+Displays:
+
+Backend skills
+Frontend skills
+Database skills
+Tools
+Projects
+Highlights:
+
+Developed applications
+Technologies used
+Project details
+References
+Contains professional recommendations.
+
+👨‍🎓 Developed By
+Tariq Bataineh
+
+Computer Science Graduate
+Full Stack .NET Developer
+
+Skills:
+
+C#
+ASP.NET Core
+Angular
+SQL Server
+HTML
+CSS
+🙏 Acknowledgment
+Special thanks to:
+
+Coach Batool
+Coach Anfal
+
+for their guidance, support, and valuable feedback during the Orange Coding Academy training journey.
+
+🔗 Links
+GitHub: https://github.com/Tariqbataineh
+
+LinkedIn: https://www.linkedin.com/in/tariqbataineh/
+
+📌 Future Improvements
+Add JavaScript interactions
+Add animations
+Improve accessibility
+Connect projects with live demos
+⭐ If you like this project, feel free to give it a star!
