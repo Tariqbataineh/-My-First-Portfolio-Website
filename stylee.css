@@ -113,6 +113,7 @@
     margin: auto;
     margin-bottom: 40px;
 }
+
 .about_title p {
     color: #A27B5C;
     font-size: 25px;
@@ -196,8 +197,9 @@
 }
 .b1 p,
 .b2 p {
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.5;
+    color: aliceblue;
 }
 /* EXPERIENCE  */
 .exp {
@@ -257,8 +259,9 @@
 .s1_exp p,
 .s2_exp p,
 .s3_exp p {
-    font-size: 15px;
+    font-size: 18px;
     line-height: 1.7;
+    color: white;
 }
 /*  EDUCATION */
 .education {
